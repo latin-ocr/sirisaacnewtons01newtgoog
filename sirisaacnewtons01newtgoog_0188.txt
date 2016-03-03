@@ -1,0 +1,47 @@
+LIBER pernen 147
+
+ob similitudinem figurae evanescentis P n o mq dt figurae PFG V l,
+ratio ultima lineolarum evanescentium Pm, Ρη, Ρο, Pq, id est,
+ratio mutationum momentanearum curvae A P, rectae C P, ¹arcus
+circularis BP, ac rectae V P, eadem erit quae linearum PV, PF, PG,
+Pl respective. Cum autem V F ad C F & VH ad C V perpendicu-
+lares sint, angelique H V G, V C F propterea aequales3 8ι angulus
+VH G (ob angulos quadrilateri H V E P ad V 81 P rectos) angulo
+C E P aequalis est, similia erunt triangula VH G, C E Ρ ,· dc inde
+fietutEPad CEita HG ad HVseu HP&itaKIadKP,&
+composite vel divisim ut CB ad C E ita Ρ] ad PK, 81 duplicatis
+consequentibus ut C B ad 2 C E ita Ρ] ad P V, atque ita Pq ad
+P m. Est igitur decrementum lineae V P, id est, incrementum lineae
+B V- V P ad incrementum lineae curvae A P in data ratione CB ad
+2 C E, u propterea (per corol. lem. 1v) longitudines B V - V P dt
+A Ρ, incrementis illis genitae, sunt in eadem ratione. Sed, existente
+B V radio, est V P co-sinus anguli B V P seu I B ΕΡ, ideoque
+B V - V P sinus versus est ejusdem anguli ; 81 propterea in hac rota,
+cujus radius est l B V, erit B V - VP duplus sinus versus arcus l BP.
+Ergo A Ρ est ad duplum sinum versum arcus l BP ut 2 C E ad
+CB. Q. E. D.
+
+Lineam autem A Ρ in propositione priore cycloidem extra
+globum, alteram in posteriore cycloidem intra globum distinctionis
+gratia nominabimus
+
+Corol. 1. Hinc si describatur cyclois integra A S L 81 bisecetur
+eain S, erit longitudo partis PS ad longitudinem V P (quae duplus
+est sinus anguli· VBP, existente E B radio) ut ¹2 C E ad CB, atque
+ideo in ratione data
+
+Corol. 2. Et longitudo semiperimetri cycloidis A S aequabitur
+lineae rectae, quae estad rotae diametrum B V ut 2 C E ad C B.
+
+PROPOSITIO L. PROBLEMA XXXIII.
+
+Facere ut corpus pendulum oscillelur in cycloz'de data.
+
+Intra globum Q V S, centro C descrIptum, detur cyclois QRS
+bisecta in R & punctis suis extremis Q &S superficiei globi hinc
+
+inde occurrens. Agatur C R bisecans arcum QS in O, 8t produ-
+catur ea ad A, ut sit CA ad CO ut COad CR. Centro C
+
+ 
+

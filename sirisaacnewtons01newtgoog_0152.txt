@@ -1,0 +1,56 @@
+LIBER PRIMUS. 111
+
+quantitas areae abscindendae tempori proportionalis. Sit ea A, 81 fiat
+conjectura de positione rectae S P, quae aream A Ρ S abscindat verae
+proximam. Jungatur OP, 81 ab A 81 P ad asymptoton agantur A l,
+PK asymptoto alteri paral·
+
+“ lelae, 8ι per tabulam logarith-
+
+morum dabitur area A IKP,
+
+eique aequalis area OPA,
+
+quae subducta de triangulo
+
+ogPS relinquet aream ab·
+
+scissam A PS. Applicando
+
+areae abscindendae A & ab·
+
+scissae A PS differentiam
+
+duplam 2 APS-2 A vel
+
+2 A-2 APS ad lineam .
+
+S N, quae ab umbilico Sin ¹ Ψ Α
+
+tangentem ΤΡ perpendicularis est, orietur longitudo chordae PQ.
+inscribatur autem chorda illa PQ inter A 81 P, si area abscissa APS
+major sit area abscindenda A, secus ad puncti P contrarias partes: 81
+punctum Q erit locus corporis accuratior. Et computatione repetita
+invenietur idem accuratior in perpetuum.
+
+Atque his calculis problema generaliter confit analytice Verum
+usibus astronomicis accommodatior est calculus particularis qui sequitur.
+Existentibus A 0, OB, OD semiaxibus ellipseos, 8ι L ipsius latere
+recto, ac D differentia inter semiaxem
+minorem OD 8ι lateris recti semissem
+}L; quaere tum angulum Y, cujus
+sinus sit ad radium ut est rectangulum
+sub differentia illa D, 81 semisumma a ς
+axium A 0÷ OD ad quadratum axis
+majoris A Β ,· tum angulum Z, cujus
+sinus sit ad radium ut est duplum
+rectangulum sub umbilicorum distantia
+S H 8ι differentia illa D ad triplum quadratum semiaxis majoris AO.
+His angulis semel inventis; locus corporis sic deinceps determinabitur.
+
+Sume angulum T proportionalem tempori quo arcus BP descriptus
+est, seu motui medio (ut loquuntur) aequalem; 8ι angulum V,
+primam medii motus aequationem, ad angulum Y, aequationem maxi-
+
+ 
+

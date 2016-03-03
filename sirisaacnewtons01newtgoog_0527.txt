@@ -1,0 +1,37 @@
+ 
+
+486 DE MUNDI S ΥΒ ΤΕΜΑ Τ E
+
+partium ¹²¹⁶³7³{· & singulis horis ara illa erit partium 50682}. Sin
+latus rectum majus sit vel minus in mione quaviS, erit ω diurna &
+hom-ia major vel minor in eadem ratione subduplimtn.
+
+LEMMA V.
+
+Invenire lincam curvam generis parabolici, qua per data quotcunque
+puncta transibit.
+
+Sunto puncta illa A, B, C, D, E, F, &a & ab iisdem ad rectam
+quamvis positione datam HN demitte perpendicula quotcunque A H,
+Bl, CKDL,EM,FN.
+
+Cas, 1. Si punctorum H, I, K L, M, Naequalia sunt intervalla
+H l, I Is, K L, &c. collige perpendiculorum A Η, ΒΙ, C K, &e-
+differentias primas b, 2b, 3b, 4b, 5b, &c. secundas c, π, 3c, 4c, &e
+tertias d, 2d, 3d, &c. id est, ita ut sit A H-Bl=b‚ BI—CK=2b,
+CK-DL=3b, DL÷EM=4b,-EM÷FN=5b‚ &a dein b—
+
+b 2b
+
+C
+
+ 
+
+2b=c, διε. 8ι sic pergatur ad differentiam ultimam, quae hie est f.
+Deinde erecta quacunque perpendiculari RS, quae fuerit ordinatim
+applicata ad curvam quaesitam: ut inveniatur hujus longitudo, pone
+intervalla HI, IK, KL, Llll, &c. unitates esse, 8ι dic A H=a,
+-HS=p, {p in-JS=q‚ {q in÷SK=r, {r in÷SL=s, ἧς in
+÷S M =t,· pergendo videlicet ad usque penultimum perpendieuhm¹
+M E, 8: praeponendo signa negativa terminis HS, IS, &e. qui
+

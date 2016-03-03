@@ -1,0 +1,40 @@
+zmzn zznrrus 441
+
+Corol. 2. ln data quavis nodorum positione, motus horarius
+mediocris est semissis motus horarii in syzygiis lunae, ideoque est
+ad 16⁰ 3 5''' 16³* 36'· ut quadratum sinus distantiae nodorum a syzygiis
+ad quadratum radii, sive ut ΑΖ qu. adA T qu. Nam si luna
+uniformi cum motu perambulet semicirculum QA q summa omnium
+arearum PDdM, quo tempore luna pergit a Q ad M, erit area
+QM d E quae ad circuli tangentem QE terminatur; 81 quo tempore
+luna attingit punctum n, summa illa erit area tota E QA n quam
+linea Pl) describit, dein luna pergente ab n ad q, linea Pl) cadet
+extra circulum, &aream nqe ad circuli tangentem qe terminatam
+describet; quae, quoniam nodi prius regrediebantur, jam vero pro·
+grediuntur, subduci debet de area priore, 8z cum aequalis sit areae
+QE N, relinquet semicirculum N QA n. Igitur summa omnium
+arearum PDo' M quo tempore luna semicirculum describit est area
+semicirculi; &summa omnium quo tempore luna circulum describit
+est area circuli totius. At area P Da' M, ubi luna versatur in
+syzygiis est rectangulum sub arcu PM & radio P T ; 81 summa
+omnium huic aequalium arearum, quo tempore luna circulum describit,
+est rectangulum sub circumferentia tota 8c radio circuli; 81 hoc rec-
+tangulum, cum sit aequale duobus circuliS, duplo majus est quam
+rectangulum prius. Proinde nodi ea cum velocitate uniformiter
+continuata quam habent in syzygiis lunaribus spatium duplo majus
+describerent quam revera describunt; u propterea motus mediocris
+quocum, si uniformiter continuaretur, spatium a se inaequabili cum
+motu revera confectum describere possent, est semissis motus quem
+habent in syzygiis lunae. Unde cum motus horarius maximus, si
+nodi in quadraturis versantur, sit 33'' 1o''' 33¹* 12'·‚ motus mediocris
+horarius in hoc casu erit 16'' 35''' 161'· 36V'. Etcum motus horarius
+nodorum semper sit ut A Z q u. 81 area PDd M conjunctim, 8z prop-
+terea motus horarius nodorum in syzygiis lunae ut A Z q u. 8ι area
+P Dd M conjunctim, id est (ob datam aream PDd M in syzygiis
+descriptam) ut A Z q rr. erit etiam motus mediocris ut A Z qu. atque
+
+ideo hic motus, ubi nodi extra quadraturas versantur, erit ad 16''
+35''' Igu. 36’· ut ΑΖ qu. ad A T qu. Q. E. D.
+
+ 
+

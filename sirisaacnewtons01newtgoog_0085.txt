@@ -1,0 +1,53 @@
+44 DE MOY U CORPORUM
+
+minimis descriptorum sinus versi per corol. 4. prop. 1. hoc est, ut
+quadrata arcuum eomndem ad diametros circulorum applicata per
+lem. vii. 81 propterea, cum hi arcus sint ut arcus temporibus quibusvis
+aequalibus descripti, &diametri sint ut eorum radii; vires erunt
+ut arcuum quorumvis simul descriptorum quadrata applicata ad
+radios circulorum. Q.E.D.
+
+Corol. 1. Cum arcus illi sint ut velocitates corporum, vires cen·
+tripetae erunt in ratione composita ex duplicata ratione velocitatum
+directe, 81 ratione simplici radiorum inverse.
+
+Corol. 2. Et, cum tempora periodica sint in ratione composita
+ex ratione radiorum directe, 82 ratione velocitatum inverse; vires
+centripeta: sunt in ratione composita ex ratione radiorum directe, u
+ratione duplicata temporum periodicorum inverse. ⁵ ⁸
+
+Corol. 3. Unde si tempora periodica aequentur, u propterea
+velocitates sint ut radii; erunt etiam vires centripetae ut radii: u
+
+contra.
+Corol. 4. Si 81 tempora periodica, 8ι velocitates sint in ratione
+
+subduplicata radiorum; aequales erunt vires centripetae inter se: 81
+
+contra.
+Corol. 5. Si tempora periodica sint ut radii, &propterea velocitates
+
+aequales ; vires centripetae erunt reciproce ut radii : & contra
+
+Corol. 6. Si tempora periodica sint in ratione sesquiplicata radio-
+rum, &propterea velocitates reciproce in radiorum ratione subdu-
+plicata ; vires centripetae erunt reciproce ut quadrata radiomm:
+81 contra
+
+Corol. 7. Et universaliter, si tempus periodicum sit ut radii R
+potestas quaelibet ΙΨ, 8ι propterea velocitas reciproce ut radii potestas
+Re ,· erit vis centripeta reciproce ut radii potestas R²''·¹.· 81 contra.
+
+Corol. 8. Eadem omnia de temporibus, velocitatibus, 81 viribus
+quibus corpora similes figurarum quarumcunque similium, centraque
+in figuris illis „similiter posita habentium, partes describunt, con-
+sequuntur ex demonstratione praecedentium ad hosce casus applicata
+Applicatur autem substituendo aequabilem areamm descriptionem
+pro aequabili motu, 81 distantias corporum a centris pro radiis
+
+usu ando.
+LrPorol. 9. Ex eadem demonstratione consequitur etiam; quod
+arcus, quem corpus in circulo data vi centripeta uniformiter revol-
+
+ 
+

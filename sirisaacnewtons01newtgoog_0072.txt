@@ -1,0 +1,46 @@
+LIBER PRIMUS.
+
+LEMMA VI.
+
+Si arcus qnelebet pontione datus A CB subtendatnr chorda AB,
+&⁶ en puncto aliquo A,· tn
+meeleb curvaturae contznnee
+tangatur n reeta ntn'nqne
+producta AD ; n'ee'n puncta
+A, B ad e'nvieem accedant
+ὅ co'e'ant ,· dico qnod nng-
+nlns BA D, snb chorda
+&tangente contentus, min-
+uetur in infinitum ὅ
+ultimo evanescet. r
+
+Nam si angulus ille non evanescit, continebit arcus A CB cum
+tangente A D angulum rectilineo aequalem, 82 propterea curvatura
+ad punctum A non erit continua, contra hypothesin.
+
+renni vn.
+
+lisdem posite& dieo qnod ultima ratio arcus, cberdoe, &tangentis
+(ια’ z'nve‘cnn est ratio equalitatis.
+
+Nam dum punctum B ad punctum A accedit, intelligantur sem-
+per A B 81 A D ad puncta longinqua b ac n’produci, 8e secanti BD
+parallela agatur bd. Sitque arcus A cb semper similis arcui A CB.
+Et punctis A, B coeuntibus angulus n'A b, per lemma superius,
+evanescet; ideoque reetae semper finitae A b, Ad, 8ι arcus interme-
+dius A cb coincident‚ &propterea aequales erunt Unde 82 hisce
+semper proportionales rectae A B, A D, 81 arcus intermedius A CB
+evanescent, 81 rationem ultimam habebunt aequalitatis. Q. E. D.
+
+Corol. 1. Unde si per B ducatur tangenti parallela BF, rectam
+quamvis A F per A transeuntem
+perpetuo secans in F, haec BF A u
+ultimo ad arcum evanescentem
+
+A CB rationem habebit aequalita-
+
+tis, eo quod completo parallelo-
+grammo A FB D rationem semper habet aequalitatis ad A D.
+
+ 
+

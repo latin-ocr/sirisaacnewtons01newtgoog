@@ -1,0 +1,52 @@
+116 BE MOTU CORPORUM
+
+prop. xvt) aequalis est velocitati
+corporis dimidio intervalli S P cir-
+culum circa idem centrum S unifor-
+miter deseribentis. Minuatur pa-
+rabolae latitudo C P in infinitum ⁰
+eo. ut arcus parabolicus P f B cum
+recta CB, centrum S curn vertice
+B, 8: intervallum S P cum intervallo
+B C coincidat, & constabit propo-
+sitio. Q. E. D.
+
+  
+   
+
+S
+
+  
+
+PROPOSITIO XXXV. THEOREMA XI.
+
+lisdem pon'tt‘s, dico quod area figurae DES, radio indefinito S D
+desmjbla, arquatis sit arcae quam corpus, radio dimidium lateris
+recti figure D E S aequante, circa centrum S uniformiter gyrando,
+eodem tempore describere potest.
+
+Nam concipe corpus C quam minima temporis panicula lineolam
+C c cadendo describere, 8: interea corpus aliud K, uniformiter in
+circulo OKk circa centrum S gymndo, arcum K k describere. Eri<
+gantur perpendicula C D, cd occurrentia figurae DE S in D, d.
+
+· Jungantur SD, Sd, SK, Sk & ducatur Da! axi A S occurrens in T,
+
+81 ad earn demittatur perpendiculum S Y.
+
+Cas, ι, Jarn si figura DE S circulus est vel hyperbola rectangula,
+bisecetur ejus transversa diameterA S in 0, δι erit S 0 dimidium
+lateris recti. Et quoniam est TCad TD ut Cc ad Da', δι TD ad
+TSut CDadSV, erit ex atquo TCad TSutCDchadSYde,
+Sed (per corol. 1. prop. xxxm) est TCad Ts ut A Cad A 0, puta
+si in coitu punctorum D, a' capiantur linearum rationes ultimae.
+Ergo AC est ad AOseu SK ut CDch ad SVde. Porro
+corporis descendentis velocitas in C est ad velocitatem corporis eir-
+culum intervallo S C circa centrum S describentis in subduplicam
+ratione A C ad A 0 vel SK (per prop. xxxlu). Et haec velocitas ad
+velocitatem corporis describentis circulum 01< k in subduplicata
+ratione S K ad S C (per corol. Vl prop. zv) 8: ex aequo velocitas
+prima ad ultimam, hoc est lineola C c ad arcum K k in subduplicata
+ratione A Cad SC, id est in rationeA Cad CD. Quare est CDx
+Cc aequale ACka,& propterea ACad Sl< ut ACka ad
+

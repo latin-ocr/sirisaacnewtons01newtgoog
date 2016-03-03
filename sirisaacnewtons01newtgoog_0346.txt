@@ -1,0 +1,48 @@
+rnrux surruptas. 30 5
+
+motu continuo ducatur in totam longitudinem A ιι,· 8ι trapezium
+ex illo motu descriptum sive huie aequale rectangulum A ιι xl ιι Β
+aequabitursummae omnium MN x C M, ideoque sunimae omnium
+DdeK, id est, areae BKVTn, Q. E. Β.
+
+Corol. Hinc ex lege resistentiae 81 arcuum C ιι, CB differentia A ιι
+colligi potest proportio resistentiae ad gravitatem quam proxime.
+
+Nam si uniformis sit resistentia ΒΚ, figura B Κ T ιι rectangulum
+erit sub B ιι & Β Κ ,· dt inde rectangulum sub l B ιι & A ιι erit aequale
+rectangulo sub Βιι & ΒΚ, & ΒΚ aequalis erit {A ιι. Quare curn
+ΒΚ sit exponens resistentiae, u longitudo penduli exponens gravi-
+tatis, erit resistentia ad gravitatem ut {A ιι ad longitudinem penduli ;
+omnino ut in prop. xxvru demonstratum est.
+
+Si resistentia sit ut velocitas, figura ΒΚ T a ellipsis erit quam
+proxime. Nam si corpus in medio non resistente, oscillatione integra
+⁸describeret longitudinem BA, velocitas in loco quovis Β soret ut
+circuli diametro AB descripti ordinatim applicata DE. Proinde .
+cum B a in medio resistente, ἃ Β A in medio non resistente aequalibus
+circiter temporibus describantur ; ideoque velocitates in singulis
+ipsius B ιι punctis, sint quam proxime ad velocitates in punctis cor-
+respondentibus longitudinis BA ,ut est Βιι ad BA ,· erit velocitas
+in puncto D in medio resistente ut circuli vel ellipseos super dia·
+metro Ba descripti ordinatim applicata ; ideoque figura ΒΚ V T ιι
+ellipsis erit quam proxime. Cum resistentia velocitati propor.
+tionalis supponatur, sit OV exponens resistentiae in puncto medio
+O,· & ellipsis BR V S ιι, centro 0, semiaxibus OB, 0 V descripta,
+figuram ΒΚ V T ιι, eique aequale rectangulum A ιι x ΒΟ, aequabit
+quamproxime. Est igitur A ιι >< ΒΟ ad O V x B O ut area ellipseos
+hujus ad 0 V >< Β 0.· id est, A ιι ad O V ut area semicirculi ad qua-
+dratum radii, sive ut 11 ad 7 circiter: Et propterea 1¹1A aad longi-
+tudinem penduli ut corporis oscillantis resistentia in Oad ejusdem
+gravitatem.
+
+Quod si resistentia ΒΚ sit in duplicata ratione velocitatis, figura
+ΒΚ V T ιι sere parabola erit verticem habens V& axem 0 V, ide-
+oque aequalis erit rectangulo sub {Ba ἃ O V quarn proxime. Est
+igitur rectangulum sub l B ιι ἃ A ιι aequale rectangulo sub ἓ Β a 81
+0 V2ideoque O V aequalis l· A a: 81 propterea corporis oscillantis re-
+
+sistentia in O ad ipsius gravitatem ut l A ιι ad longitudinem penduli.
+u
+
+ 
+

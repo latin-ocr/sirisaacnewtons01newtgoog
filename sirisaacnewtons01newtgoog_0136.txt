@@ -1,0 +1,29 @@
+arnan PRIMUS. '95
+
+riae. Rursus figurae quadrilaterae B GDF, sub aliis quibusvis qua-
+tuor tangentibus contentae, diagonales (ut ita dicam) BD, GF
+biseca in P 81 Q.- 8e recta PQ per puncta bisectionum acta tran·-
+sibit per centrum trajectoriae. Dabitur ergo centrum in concursu
+bisecantium. Sit illud 0. Tangenti cuivis B C parallelam age K L,
+ad eam distantiam ut centrum 0 in medio inter parallelas locetur,
+
+81 acta K L tanget trajectoriam describendam. Secet haee tangentes
+alias quasvis duas G C D, F DE in L & K. Per harum tangentium
+non parallelarum CL, FK cum parallelis CF, K L concursus C u K,
+F 81 L age C K, F L concurrentes in R, 8r recta OR ducta u pro-
+ducta secabit tangentes parallelas C F, K L in punctis contactuum.
+Patet hoc per corol. 2. lem. xxrv. Eadem methodo invenire licet
+alia contactuum puncta, 81 tum demum per construet prob. xw.
+trajectoriam describere. Q. E. F. ·
+
+Scholz‘um.
+
+Problemata, ubi dantur trajectoriarum vel centra vel asymptoti,
+includuntur in praecedentibus. Nam datis punctis 82 tangentibus
+unacum centr0, dantur alia totidem puncta aliaeque tangentes a
+centro ex alter'a ejus parte aequaliter distantes. Asymptotos autem
+pro tangente habenda est, u ejus terminus infinite distans (si ita
+loqui fassit) pro puncto contactus. Concipe tangentis cujusvis punc·
+
+ 
+

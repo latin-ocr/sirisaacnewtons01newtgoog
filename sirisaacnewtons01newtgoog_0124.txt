@@ -1,0 +1,31 @@
+γ LIBER PRJMch. 83
+
+applicentur crura BA, CA, primo ad punctum D, deinde ad punc-
+tum P, & notentur puncta M, N in quibus altera crura BL, CL
+casu utroque se decussant Agatur recta infinita MN, & rotentur
+anguli illi 'mobiles circum polos suos B, C, ea legent crurum BL,
+CL vel B M, CM intersecti0, quae jam sit m, incidat semper in
+rectam illam infinitam M N ,· 81 crurum B A, CA, vel B l), CB
+intersectio, quae jam sit d, trajectoriam quaesitam P A D d B delinea-
+bit. Nam punctum d (per lem. xxl.) continget sectionem conicam
+
+per puncta B, C transeuntem 81 ubi punctum m accedit ad puncta
+L, M, N, punctum d (per constructionem) accedet ad puncta A DP.
+Describetur itaque sectio conica transiens per puncta quinque A, B,
+C,P,D. Q.E.F.' y
+
+Corol. 1. Hinc recta expedite duci potest, quae trajectoriam
+quaesitam in puncto quovis dato B continget Accedat punctum d ad
+
+punctum B, & recta B d evadet tangens quaesita.
+Corol. 2. Unde etiam trajectoriarum centra, diametri δι latera
+
+recta inveniri possunt, utin corollario secundo lemmatis xlx,
+
+Scholium. ,
+
+Constructio prior evadet paulo simplicior jungendo BP, & in ea, si
+opus est, producta capiendo B p ad BP ut est PR ad P T ,· &
+
+ 
+

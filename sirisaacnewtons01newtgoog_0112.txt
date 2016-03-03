@@ -1,0 +1,46 @@
+LIBER PRIMUS. 7¹
+
+lombitur punctum Z in hyperbola cujus umbilici sunt A δι B. 8:
+principalis axis differentia illa daoe. Sit axis ille M Ν. Cape PM
+ad MA ut est MN ad A B, & erecta PR perpendiculari ad A B,
+demissaque Z R perpendiculari ad P R ; erit, ex natum hujus hyper-
+bolae, ZR ad A Z ut est MN ad AB. Simili discursu punctum Z
+locabitur in alia hyperbola, cujus umbilici sunt A. C δι principalis
+axis differentia inter ΑΖ 8ι C Z, ducique potest QS ipsi A C
+perpendicularis, ad quarn si ab hyperbolae hujus puncto quovis Z
+demittatur normalis Z S, haec suerit ad A Z ut est differentia inter
+ΑΖ δι CZ ad A C. Dantur ergo rationes ipsarum ZR & ZS ad
+ΑΖ, δι idcirco datur earundem ZR
+& Ζ S ratio ad invicem; ideoque si
+rectae RP, SQ concurrant in T, &
+agantur TZ δε TA, figura TRZS
+dabitur specie, δε recta T Z in qua
+punctum Z alicubi locatur. dabitur
+positione. Dabitur etiam reem. TA,
+ut & angulus ATZ; δι ob datas
+rationes ipsarum ΑΖ ac TZ ad ZS
+dabitur earundem ran'o ad invicem:
+& inde dabitur triangulum A T Z,
+cujus vertex est punctum Z. Q.E.l.
+
+Cas. 2. Si duae ex tribus lineis, pura A Ζ 8ι BZ, aequantur, ita
+age recu-:m TZ, ut bisecet rectam AB ; dein quaere triangulum
+A Τ Ζ ut supra.
+
+Cas. ³- Si omnes tres sequantur, locabitur punctum Z in centro
+circuli per puncmA, B, C transeuntis. Q. E. I.
+
+Solvitur etiarn hoc lemma problematicum per librum tactionum
+Apollonii a Victa restitutum.
+
+ 
+
+PROPOSITIO XXL PROBLEMA XIII.
+
+Trasmoriam circa datum umbilicum describere, qua transibit per
+puncta data ἅ ratas positione datas continget.
+
+Detur umbilicus S, punctum P, 81 tangens TR, & inveniendus
+sit umbilicus alter H. Ad tangentem demitte perpendiculum S 73 &
+v produc idem ad Y, ut sit T Y aequalis S T, & erit Y H aequalis axi
+

@@ -1,0 +1,45 @@
+trusa PRIMUS 89
+
+· Igitur si figura rectilinea in aliam transmutanda est, sufficit recta-
+rum, a quibus conflatur, intersectiones transferre, 8c per easdem in
+figura nova lineas rectas ducere. Sin curvilineam transmutare opor· .
+tet, transferenda sunt puncta, tangentes, 81 aliae rectae, quarum ope
+
+curva linea definitur. Inservit autem hoc lemma solutioni difficiliorum
+problematum, transmutando figuras propositas in simpliciores. Nam
+rectae quaevis convergentes transmutantur in parallelas 'adhibendo
+pro radio ordinato primo lineam quamvis rectam, quae per con-
+cursum convergentium transit; idque quia concursus ille hoc pacto
+abit in infinitum; lineae· autem parallelae sunt, quae nusquam
+concurrunt. Postquam autem problema solvitur in figura nova;
+si per inversas operationes transmutetur haec figura in figuram
+primam, habebitur solutio quaesita.
+
+Utile est etiam hoc lemma in solutione solidorum problematum.
+Nam quoties duae sectiones conicae obvenerint, quarum intersectione
+problema solvi potest, transmutare licet earum alterutram, si hyper·
+bola sit vel parabola, in ellipsin: deinde ellipsis sacile mutatur in
+circulum. Recta item &sectio conica, in constructione planorum
+problematum, vertuntur in rectam &circulum ’
+
+PROPOSITIO XXV. PROBLEMA XVII.
+
+Trajeclorzizm descm‘bere, quae per datu duo puncta transibit, ὅ rectas
+Ι tres continget positione datas.
+
+Per concursum tangentium. qua· ι· ,p
+rumvis duarum cum se invicem, &
+concursum tangentis tertiae cum recta
+illa, quae per puncta duo data tran·
+
+sit, age rectam infinitam; eaque
+adhibita pro radio ordinato primo,
+transmutetur figura, per lemma su-
+perius in figuram novam. In hac
+figura tangentes illae duae evadent
+sibi invicem parallelae, & tangens
+tertia fiet parallela rectae per puncta
+duo data transeunti. Sunto lzi, kl tangentes illae duae parallelae, ik
+
+ 
+

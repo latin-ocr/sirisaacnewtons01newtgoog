@@ -1,0 +1,43 @@
+trata TERTIUS. 423
+
+Sunt etiam 'aliae quaedam a prioribus astronomis non observatae
+inaequalitates, quibus motus lunares adeo perturbantur, ut nulla hac-
+tenus lege ad regulam aliquam certam reduci potuerint. Velocitates
+enim seu motus horarii apogaei & nodorum lunae 81 eorundem
+aequationes, ut &differentia inter eccentricitatcm maximam in syzy-
+giis & minimam in quadraturis, 81 inaequalitas quae variatio dicitur
+augentur ac diminuuntur annuatim (per corol. 14 prop. val) in
+triplicata ratione diametri apparentis solaris. Et variatio praeterea
+augetur vel diminuitur in duplicata ratione temporis inter quadraturas
+quamproxime (per corol. 1 81 2 lem. x 81 corol. 16 prop. 'vat lib. 1)
+sed haec inaequalitas in calculo astronomico ad prosthaphaeresin lunae
+referri solet, 8ι cum ea conlundi.
+
+PROPOSITIO XXIII. PROBLEMA V.
+
+Motus· zizoequales satellitum jovis ὅθ’ saturni a molibus lunaribus
+derivare.
+
+Ex motibus lunae nostrat motus analogi lunarum seu satellitum
+
+’ jovis sic derivantur. Motus medius nodorum satellitis extimi jovialis
+estad motum medium nodorum lunae nostrae in ratione composita ex
+ratione duplicata temporis periodici terrae circa solem ad tempus
+periodicum jovis circa solem 81 ratione simplici temporis periodici
+satellitis circa jovem ad tempus periodicum lunae circa terram (per
+corol. 16 prop. var lib. ι) ideoque annis centum conficit nodus iste
+8⁸¹· 24' in antecedentia. Motus medii nodorum satellitum interiorum
+suntad motum hujus ut illorum tempora periodica ad tempus perio-
+dicum hujus (per idem corollarium) 8ι inde dantur. Motus autem
+augis satellitis cujusque in consequentia est ad motum nodorum
+ipsius in antecedentia ut motus apogaei lunae nostrae ad hujus motum
+nodorum (per idem corol.) 8c inde datur. Diminui tamen debet
+motus augis sic inventus in ratione 5 ad 9 vel 1 ad 2 circiter ob
+causam quam hic exponere non vacat. AEquationes maximae nodo-
+rum ἃ augis satellitis cujusque sere sunt ad aequationes maximas
+nodorum a augis lunae respective ut motus nodorum 8c augis satel-
+litum tempore unius revolutionis aquationum priorum ad motus
+nodorum ἃ apogaei lunae tempore unius revolutionis aequationum
+
+ 
+

@@ -1,0 +1,43 @@
+246 ne noruconponun
+
+cati per numerum intervallorum inter ipsos 81 terminum datum.
+Sunto A, B, C, D, E, F continue proportionales; & si detur terminus
+C, momenta reliquorum terminorum erunt inter se ut -2 n,-B,
+D, 2E, 3F. ‚
+
+Corol. 2. Et si in quatuor proportionalibus duae mediae dentur,
+momenta extremarum erunt ut eaedem extremae. Idem intelligendum
+est de lateribus rectanguli cujuscunque dati.
+
+Corol. 3. Et si summa vel differentia duorum quadratorum detur,
+momenta laterum enmt reciproce ut latera.
+
+Scholium.
+
+In epistola quadam ad D. J. Collmium nostratem 10 Decem. 1672
+data, cum descripsissem methodum tangentium quam suspicabar
+eandem esse cum methodo Slusii tum nondum communicata; sub-
+junxi: Hoc est urium particulare vel corollarium potius methodi
+⁰ generales, qua extendit sc citra molestum ullum calculum, non modo
+ad ducendum tangentes ad quasm's curvas sive geancetricas siae mechanicas
+vel quomodocunque rectas lineas aliusne cccmus respicientes, verum
+etiam ad resolvendum alia abstrusiora problematum gerrem de accrvi-
+tatibus, areis, longitudirn'bus, centris grauitatis cremeram &a neque .
+(quemadmodum H uddenii methodus de mammis ἐφ’ minimis) ad
+solas restringitur aquationes illas qua quantitatibus surdis sunt
+immunes. Hanc methodum intertexui alteri isti qua aquationum
+exegesim instituo reducendo cas ad series infinitas. Hactenus epistola.
+Et haec ultima verba spectant ad tractatum quem anno 1671 de
+his rebus scripseram. Methodi vero' hujus generalis fundamentum
+continetur in lemmate praecedente.
+
+PROPOSITIO VIII. THEOREMA VI.
+
+Si corpus in medio uniformi, gravitate uniformiter agente, recta
+ascendat ael descendat, &³ „palium totum descriptum distinguatur
+in partes (equales. inque principiis singularum partium (addmdo
+resistentiam medii ad vim grauitatis, qnando corpus ascendit,
+vel subducendo ipsam quando corpus descendit) investigentur
+
+ 
+

@@ -1,0 +1,40 @@
+eruere fusurus. 16,
+
+communem aequali motu angulari, propterea quod in directum semper
+jacentes- non mutant inclinationem ad se mutuo. Lineae autem
+rectae, quae sunt in data ratione ad invicem, 81 aequali motu angulari
+circum terminos suos feruntur, figuras circum eosdem terminos
+in planiS, quae unacum his terminis vel quiescunt, vel motu quovis
+non angulari moventur, describunt omnino similes, Proinde
+similes sunt figurae, quae his distantiis circumactis describuntur.
+
+Q. E. D.
+
+PROPOSITIO LVIII. THEOREMA XXI.
+
+Si corpora duo uiribus quibusvis se mutuo trahunt, &³ interut
+revolvuntur circa gravitates centrum commuue: dico quod figuris,
+quas corpua sic mota describunt circum se mutuo, potest figura
+similis ἃ (equulei, circum corpus alterutrum immotum, uiribus
+
+uidem describi.
+
+Revolvantur corpora S, Ρ circa commune gravitatis centrum C,
+pergendo de S ad T,deque P ad Q. A dato puncto s ipsis S Ρ,
+Τ Q aequales dc parallelae ducantur semper sp, sq,· & curva pqv,
+quam punctum p revolvendo circum punctum immotum s describit,
+erit similis 81 aequalis curvis, quas corpora S, Ρ describunt circum
+se mutuo: proindeque (per theor. xx) similis curvis S T dc Ρ Q V,
+
+quas eadem corpora describunt circum commune gravitatis centrum
+C .· idque quia proportiones linearum S C, C P, 8ι S P vel sp ad
+invicem dantur.
+
+cas. 1. Commune illud gravitatis centrum C, per legum corol-
+larium quartum, vel quiescit, vel movetur uniformiter in directum.
+
+Ponamus primo, quod id quiescit, inque s 8ι p locentur corpora
+L
+
+ 
+

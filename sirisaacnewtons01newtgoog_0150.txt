@@ -1,0 +1,32 @@
+LIBER PRIMUS. 1 09
+
+SQ, OQ. Arcui EFG occurrat OQ in F, 8ι in eandem OQ de-
+· mittatur perpendiculum SR. Area A P S est ut area A QS, id est,
+ut differentia inter sectorem OQA 8ι triangulum OQS, sive ut
+differentia rectangulorum ὲ OQxA Q ἃ ἒ OQxSR, hoc est, ob
+datam ἒ 0 Q, ut differentia inter arcum A Q & recmrn S R, ideoque
+(cum eaedem sint datae rationes SR acl sinum arcus A Q, OS ad OA,
+OA ad OG, A Q ad GF. & divisim A Q—SR ad GF—sinu
+arcus A Q) ut GK differentia inter arcum G F & sinum arcus A Q.
+Scholium.
+
+Caeterum, cum difficilis sit hujus curvae descriptio, prastat solu-
+tionem vero proximam adhibere. Inveniatur tum angulus quidam
+Β, qui sit ad angulum gmduum 57.29578, quem arcus radio aequalis
+subtendit, ut est umbilicorum distantia SH acl ellipseos diametrum
+A B ; turn etiam longitudo quaedam L, quae sit ad radium in adem
+
+ 
+
+mtione inverse. Quibus semel inventis, problema deinceps confit
+per sequentem analysin. Per constructionem quamvis, vel utcunque
+conjecturam faciendo, eognosmtur eorporis loeus P proximus vero
+ejus loco p. Demissaque ad axem ellipseos ordinatim applicata PR,
+ex proportione diametrorum ellipsoos, dabitur circuli circumscripti
+A QB ordinatim applicata RQ, quae sinus est anguli A OQ ex-
+istente AO mdio, quaeque ellipsin secat in P. Sufficit angulum illum
+rudi calculo in numeris proximis invenire. Cognommr etiam
+angulus tempori proportionalis, id est, qui sit ad quatuor rectos ut est
+tempus, quo corpus descripsit ascum A p, ad tempus revolutionis
+unius in ellipsi. Sit angulus iste N. Tum capiatur & angulus D ad
+

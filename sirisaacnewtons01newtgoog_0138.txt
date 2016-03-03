@@ -1,0 +1,47 @@
+LJBER PRIMUS. ’ '97
+
+describe alium cir'culum, 8ι recta, 'quae tangit hunc circulum, 88
+transit per concursum crurum CK, BK, ubi crura ‘prima C P, BP
+concurrunt ad quartum datum punctum, erit regula illa MN cujus
+ope trajectoria describetur. Unde etiam :vicissim trapezium specie
+datum (si casus quidam impossibiles excipiantur) in data quavis sec-
+tione conica inscribi potest
+
+Sunt& alia lemmata quorum ope trajectoriae specie datae, datis
+punctis ἃ tangentibus describi possunt. Ejus generis est quod, si
+recta linea per punctum quodvis positione datum ducatur, quae da-
+tam coni sectionem in punctis duobus intersecet, 81 intersectionum
+intervallum bisecetur, punctum bisectionis tanget aliam coni sectionem
+ejusdem speciei cum priore, atque axes habentem prioris axibus
+parallelos Sed propero ad magis utilia.
+
+LEMMA XXVI.
+
+T rz'angrclz' specie ὅς’ magnitudine dati tres angulos ad rectas totidem
+pon'tzbm datas, quae non sunt omnes parallelae, singulos ad singubzs
+ponere.
+
+Dantur positione tres rectae infinitae A Β, Α C, B C, 8ι oportet
+triangulum B B F ita locare, ut angulus ejus B lineam A B, angulus
+E lineam A C, 81 angulus F lineam B C tangat Super DE, DF
+81 E F describe tria circulorum segmenta BRE, B G F, E M F,
+quae capiant angulos angulis BA C, A B C, A CB aequales
+respective. Describantur autem haec segmenta ad eas partes linea·
+rum DE, BF, EF, ut literae BR E B eodem ordine cum
+literis BA CB, literae B G FB eodem cum literis A B CA,
+81 literae E M F E eodem cum literis A C B A in orbem redeant ;
+deinde compleantur haec segmenta in circulos integros. Secent
+circuli duo priores se mutuo in G, sintque centra eorum P 8z Q.
+Junctis G P, P Q, cape G a ad A B ut est G P ad P Q, 8c centro G,
+intervallo Ga describe circulum, qui secet circulum primum D GE
+in a Jungatur tum al) secans circulum secundum DF G in b,
+tum aE secans circulum tertium E M F m c Et Jam licet figuram
+A B C d e s constituere similem 8c aequalem figurae abc B E F. Quo
+
+facto perficitur problema
+
+Agatur enim F c ipsi aD occurrens in n, &jungantur aG, bG,
+G
+
+ 
+

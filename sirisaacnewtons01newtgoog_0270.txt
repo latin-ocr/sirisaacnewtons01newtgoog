@@ -1,0 +1,34 @@
+LIBER PRIMUS. 229
+
+Nam concipe lineas C P, C Q ipsis A D, DF respective, 81 lineas
+E R, E S ipsis F B, F D ubique perpendiculares esse, ideoque Q S
+ipsi C E semper aequalem3 81 erit (per corol. 2 prop. xcvu) PD
+ad QD ut M ad N, ideoque ut DL ad DK vel FB ad FK; 81
+divisim ut DL-FB seu PH-PD-FB acl FD seu FQ-QD,·
+81 composite ut P H -F B ad F Q, id est (ob aequales P H 8ι C G,
+QS 81 ΟΕ) CE÷BG-FR ad CE-FS. Verum (ob propor-
+tionales BG ad CE 81 M-N ad N) est etiam CE÷BG ad CE
+ut M ad N ; ideoque divisim F R ad F S ut M ad N 3 81 propterea
+(per corol. 2 prop. xcvn) superficies E F cogit corpus, in ipsam
+secundum lineam ¹D F incidens, pergere in linea F R ad locum B.
+
+Q. E. D.
+
+ι Scholium.
+
+Eadem methodo pergere liceret ad superficies tres vel plures.
+Ad usus autem opticos'maxime accommodatae sunt figurae sphaericae.
+Si perspicillorum vitra objectiva ex vitris duobus sphaeriee figuratis
+&aquam inter se claudentibus conflentur; fieri potest ut a refrac-
+tionibus aquae errores refractionum, quae fiunt in vitrorum superficiebus
+extremis, satis accurate corrigantur. Talia autem vitra objectiva
+vitris ellipticis dr hyperbolicis praeferenda sunt, non solum quod
+facilius 81 accuratius sormari possint, sed etiam quod penicillos
+radiorum extra axem vitri sitos accuratius refringant. Veruntamen
+diversa diversorum radiorum resrangibilitas impedimento est, quo
+minus optica per figuras vel sphaericas vel alias quascunque perfici
+possit Nisi corrigi possint errores illinc oriundi, labor omnis in
+caeteris corrigendis imperite collocabitur.
+
+ 
+

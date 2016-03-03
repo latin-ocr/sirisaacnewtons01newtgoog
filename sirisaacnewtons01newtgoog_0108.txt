@@ -1,0 +1,58 @@
+amaa PRIMUS. 67
+
+perpendiculum ST, 81 producatur idem ad V‚ut sit Τ V aequalis S T ‚·
+centroque V tt intervallo A B describatur circulus F H. Hac
+
+'methodo sive dentur duo puncta Ρ, p, sive duae tangentes T R, t r,
+sive punctum Ρ &tangens Τ R, describendi sunt circuli duo. ,Sit
+H eorum intersectio communis, a umbilicis S, H, axe illo dato
+describatur trajectoria Dico factum. Nam trajectoria descripta
+(eo quod PH ÷ S P in ellipsi‚ 81 P H -S P in hyperbola aequatur
+
+ι axi) transibit per punctum Ρ, tt (per lemma superius) tanget rectam
+
+ς T R. Et eodem argumento vel transibit eadem per puncta duo
+P, p, vel tanget rectas duas Τ R, tr. Q. EF.
+
+PROPOSITIO XIX. PROBLEMA XI.
+
+‚ Circa datum umbilicum trajactom'am parabolicam discribere, qua
+¹ transibit perpumta dato, ἐφ’ rectas positione datas coatmgct.
+
+’ Sit S umbilicuS, Ρ punctum 81 T R tangens trajectoriae descri-
+’ bendae„ Centro P, intervallo PS describe circulum F G. Ab um-
+
+bilico ad tangentem demitte perpendicularem ST, & produc eam
+
+ad V, ut sit T V aequalis S T. Eodem modo describendus est alter
+
+circulus fg, si datur alterum punctum p,· vel inveniendum alterum
+
+punctum v, si datur altera tangens tr,· dein du-
+
+cenda recta I F quae tangat duos circulos F G,
+
+fg si dantur duo puncta Ρ, p, vel transeat per
+
+duo puncta V, o, si dantur duae tangentes T R,
+
+t r, vel tangat circulum F G & transeat per
+
+punctum V, si datur punctum Ρ & tangens Gr
+
+T R. Ad F I demitte perpendicularem SI, X
+
+eamque biseca in K ,· 81 axe S K, vertice prin· Χ ,
+
+cipali K describatur parabola. Dico factum. ¹ k *s
+
+Nam parabola, ob aequales S K & I K, S P 81
+
+FP, transibit per punctum Ρ,· & (per lem. xw.
+
+corol. 3.) ob aequales S T & T V & angulum rectum S T R, tanget
+
+rectam T R. Q.E.F. ·
+
+ 
+

@@ -1,0 +1,33 @@
+108 DE now CORPORUM
+
+longitudinum rationes complicatas, determinari possunt; caetemsque
+(ut spirales, quadratrices, trochoides) geometrice irrationales Nam
+longitudines quae sunt vel non sunt ut numerus ad numerum
+(quemadmodum in decimo elementorum) sunt arithmetice rationales
+vel irrationales Aream igitur ellipseos tempori proportionalem
+abscindo per curvam geometrice inationalem ut sequitur.
+
+PROPOSlTIO XXXl. PROBLEMA XXIII.
+
+Corpeni in data trajectoria clliptica moli invenire locum ad lenrpres
+asszgrmtum.
+
+Ellipseos A P B sit A vertex principalis, S umbilicus, 81 0 oen·
+trum, sitque P corporis locus inveniendus. Produc OA ad G, ut sit
+OG ad OA ut OA ad OS. Erige perpendiculum GH, centroqueO
+81 intervallo OG describe circulum GE F, & super regula G H, oeu
+fundo, progrediatur rota GE F revolvendo circa axem suum, dr
+interea puncto suo A describendo trochoidem A LI. Quo facto,
+cape GK in ratione ad rotae perimetrum GE F G, ut est tempus,
+
+quo corpus progrediendo ab A descripsit arcum A P, ad tempus
+revolutionis unius in ellipsi. Erigatur perpendiculum K L occurrens
+
+trochoidi in L, 81 acta LP ipsi K G parallela occurret ellipsiin
+corporis loco quaesito P.
+
+Nam centro 0, intervallo OA describatur semicirculus A QB,
+dc arcui A Q occurrat L P si opus est producta in Q, jungunturque
+
+ 
+

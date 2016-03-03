@@ -1,0 +1,50 @@
+LIBER PRIMUS.
+
+Scholium.
+
+Si corpus aliquod perpendiculariter versus planum datum trahatur,
+81 ex data lege attractionis quaeratur motus corporis: solvetur
+problema quaerendo (per prop. xxxix) motum corporis recta
+descendentis ad hoc planum, 81 (per legum corol. 11) componendo
+motum istum -cum uniformi motu, secundum lineas, eidem plano
+parallelas facto. Et contra, si quaeratur lex attractionis in planum
+secundum lineas perpendiculares factae, ea conditione ut corpus
+attractum in data quacunque curva linea moveatur, solvetur problema
+operando ad exemplum problematis tertii.
+
+Operationes autem contrahi solent resolvendo ordinatim applica-
+tas in series convergentes. Ut si ad basem A in angulo quovis
+dato ordinatim applicetur longitudo B, quae sit ut basis dignitas
+
+quaelibet A '⁶ ; &quaeratur vis qua corpuS, secundum positionem
+ordinatim applicatae, vel in basem attractum vel a basi fugatum,
+moveri possit in curva linea, quam ordinatim applicata termi-
+no suo superiore semper attingit: Suppono basem augeri parte
+
+quam minima O, 8ι ordinatim ,applicatam ATOE Τ resolvo in
+
+Η
+seriem infinitam A '⁴ ÷3 OA '⁵ *mmm
+
+OOAg-»Q at-
+
+que hujus termino in quo O duarum est dimensionum, id est,
+
+termino Qu Ο Ο A T vim proportionalem esse suppono. Est
+
+2nn
+
+Μ-Ίβ
+
+igitur vis quaesita ut Ἥ A ⁸ ‚ vel quod perinde est, ut
+
+Ψ ΒΤ. Ut si ordinatim applicata parabolam attingat,
+
+existente m=2‚ & n: 1: liet vis ut data 213⁰, ideoque dabitur.
+Data igitur vi corpus movebitur in parabola, quemadmodum Galiloeus
+demonstravit. Quod si ordinatim applicata hyperbolam attingat,
+existentem=o-1‚ & n=1; liet vis ut 2A⁴seu 213³: ideoque vi.-
+quae sit ut cubus ordinatim applicatae, corpus movebitur in hyperbola,
+
+ 
+

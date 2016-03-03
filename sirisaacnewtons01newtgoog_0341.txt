@@ -1,0 +1,37 @@
+DE MOT U CORPORUM
+
+PROPOSITIO XXIX. PROBLEMA Vl.
+
+Posito quod corpori in cycloide oscillunli resistitur in duplicata ratione
+velocilalis: invenire resistentiam in¹ locis singulis.
+
+Sit Ba arcus oscillatione integra descriptus sitque C infimum
+
+cycloidis punctum, 81 C Z semissis arcus cycloidis totiuS, longitu-
+dini penduli aequalis3 u quaeratur resistentia corporis in loco qup-
+vis D. Secetur recta infinita OQ in punctis O, S, P, Q, ea lege,
+ut (si erigantur perpendicula OK. S T, Pl, QE, centroque O dc
+asymptotis OK, OQ describatur hyperbola TI GE secans perpendic-
+ula S T, Pl, QE in T, l & E, & per punctum l agatur K F parallela
+
+asymptoto OQ occurrens asymptoto OK in K, &perpendiculis S T ,
+
+8ι QE in L dc F l suerit area hyperbolica Pl E Q ad aream hyper-
+bolicam Pl Τ S ut arcus B C descensu corporis descriptus ad arcum
+
+C a ascensu descriptum, 81 area l E F ad aream IL T ut OQ ad OS.
+Dein perpendiculo MN abscindatur area hyperbolica Ρ] Ν Μ quae
+sit ad aream hyperbolicam P Ι E Q ut arcus C Z ad arcum B C de-
+scensu descriptum. Et si perpendiculo R G abscindatur area hy-
+perbolica P l G R, quae sit ad aream P l E Q ut arcus quilibet C D
+
+ad arcum B C descensu toto descriptum; erit resistentia in loco D
+
+ad vim gravitatis, ut area Q l E F -l G H ad aream P l N M.
+
+0 Q
+Nam cum vires a gravitate oriunda: quibus corpus in locis Z, B, D,
+a urgetur, sint ut arcus C Z, CB, C D, Ca, & arcus illi sint ut areae
+
+ 
+

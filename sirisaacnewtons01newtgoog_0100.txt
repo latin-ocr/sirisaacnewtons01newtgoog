@@ -1,0 +1,47 @@
+monn PRIMUS. 59
+
+parallelam QR 81 perpendicularem QT, necnon Qv tangenti pa·
+rallelam, & occurrentem tum diametro PG in v, tum distantiae
+S P in x. Jam ob similia triangula va, S PM, & aequalia unius
+latera SM, S P, aequalia sunt alterius latera Px seu QR & Pv.
+Sed ex conicis quadratum ordinatae Qv aequale est rectangulo sub
+latere recto 81 segmento diametri Pv, id est (per lem. x111.)rec-
+tangulo 4 PS x Po, seu 4 PS x Q R,· dr punctis P 81 Q coeuntibus
+
+ratio Qv ad Qx (per corol. 2. lem. vu.) fit ratio aequalitatis. Ergo
+Qx quad. eo in casu
+
+aequale est rectangulo ¹
+4PSxQR. Est au-
+tem (ob similia triangu-
+lanDSPmeqad
+QTq ut PSqad SNq,
+hoc est (per corol. 1.
+lem. x1v.) ut PS ad
+SA, id est, ut 4PS
+xQRad4SA><QR‚
+& inde (per prop. nr. ·
+lib. v. elem.) QT q & 4SA >< QR aequantur. Ducantur haec aequalia
+in ἐξ, a fiet ἕ--Ρῗὲη
+corol 1. dr 5. prop. v1.) vis centripeta est reciproce ut Squ4SA‚
+id est ob datam 48 A, reciproce in duplicata ratione distantiae
+Corol. 1. Ex tribus novissimis propositionibus consequens est, quod
+si corpus quodvis P secundum lineam quamvis rectam PR quacunque
+curn velocitate exeat de loco P, & vi centripeta, quae sit reciproce
+proportionalis quadrato distantiae locorum a centro, simul agitetur;
+movebitur hoc corpus in aliqua sectionum conicarum umbilicum ha-
+bente in centro virium; 81 contra Nam datis umbilico, 8z puncto
+contactus, 81 positione tangentis, describi potest sectio conica, quae
+curvaturam datam ad punctum illud habebit Datur autem curvatura
+ex data vi centripeta, dr velocitate corporis: dr orbes duo se mutuo
+tangentes eadem vi centripeta eademque velocitate describi non possunt
+Corol. 2. Si velocitas, quacum corpus exit de loco suo P, ea sit,
+
+qua lineola PR in minima aliqua temporis particula describi possit;
+
+M
+
+aequale SPq x 4SA: &propterea (per
+
+ 
+

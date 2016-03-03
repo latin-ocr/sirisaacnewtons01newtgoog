@@ -1,0 +1,44 @@
+· LIBER TERTIUS. 4²9
+
+S K ad S P, u ipsi P Τ agatur parallela L M ,· dc si gravitas ac-
+celeratrix terrae in solem exponatur per distantiam S Τ vel S K,
+erit S L gravitas acceleratrix lunae in solem. Ea componitur ex
+partibus SM, L M, quarum L M 8t ipsius SM pars T M perturbat
+motum lunae, ut in libri primi prop. va1 81 ejus corollariis expositum
+est. Quatenus terra & luna circum commune gravitatis centrum re-
+volvuntur, perturbabitur etiam motus terrae circa centrum illud a
+viribus consimilibus ; sed summas tam virium quam motuum referre
+licet ad lunam ἃ summas virium per lineas ipsis analogas T M 81
+ML designare. Vis ML in mediocri sua quantitate est ad vim
+centripetam, qua luna in orbe suo circa terram quiescentem ad dis-
+tantiam P T revolvi posset, in duplicata ratione temporum periodi-
+corum lunae circa terram 81 terrae circa solem (per corol. 17 prop. var
+lib. Ι) hoc est, in duplicata ratione dierum 27 hor. 7 min. 43 ad
+dies 365 hor. 6min. 9, id est, ut 1000 ad 178725,seu 1 ad 17866.
+Invenimus autem in propositione quarta quod, si terra& luna circa
+commune gravitatis centrum revolvantur, earum distantia mediocris
+ab invicem erit 60} semidiametrorum mediocrium terrae quamproxime.
+Et vis, qua luna in orbe circa terram quiescentem ad distantiam
+P Τ semidiametrorum terrestrium 60} revolvi posset, est ad vim,
+qua eodem tempore ad distantiam semidiametrorum 60 revolvi
+posset, ut 60} ad 60 ; 81 haec vis ad vim gravitatis apud nos ut 1 ad
+60><60 quamproxime. Ideoque vis mediocris ML est ad vim
+gravitatis in superficie terrae ut 1 x 60} ad 60 >< 60 x 60 x 178535, seu
+1 ad 6380926. Inde vero & ex proportione linearum T M, M L,
+
+datur etiam vis T M .· 81 hae sunt vires solis quibus lunae motus per-
+turbantur. Q. E. Ι.
+
+PROPOSITIO XXVI. PROBLEMA VlI.
+
+Invenire decrementum horarium arere quom luna, radio ad terram
+ducta, in orbe circulari desm'bil.
+
+Diximus aream, quam luna radio ad terram ducto describit, esse
+tempori proportionalem, nisi quatenus motus lunaris ab actione solis
+turbatur. inaequalitatem momenti vel incrementi horarii hic inves-
+tigandam proponimus. Ut computatio sacilior reddatur, fingamus
+orbem lunae circularem esse, 81 inaequalitates omnes negligamus ea
+
+ 
+

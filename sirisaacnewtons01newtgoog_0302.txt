@@ -1,0 +1,36 @@
+LIBER SECUNDUS. 261
+
+¹“Proinde si' corpus de loco A secundum ¹rectam A H projectum
+describat hyperbolam A G K, & A H producta occurrat asymptoto
+N X in H, actaque A Ι eidem parallela occurrat alteri asymp'toto
+
+M X inl: erit medii densitas in A reciproce ut A H, 8t corporis
+
+vvelocitas ut ,lAA—liq, ac resistentia ibidem ad gravitatem ut A H
+
+d ² nn÷² n in AI. Unde prodeunt sequentes regulae Ἰ
+
+a n†2
+
+Reg. 1. Si servetur turn medii densitas 1n A, tum velocitas
+quacum corpus projicitur, 81 mutetur angulus N A H ,· manebunt
+longitudines A H, AI, H X. Ideoque si longitudines illae in aliquo
+casu inveniantur, hyperbola deinceps ex dato quovis angulo N A H
+expedite determinari potest.
+
+Rege 2. Si servetur tum angulus N A H, tum medii densitas in
+A, 81 mutetur velocitas quacum corpus projicitur; servabitur longitudo
+
+A H, 81 mutabitur A Ι in duplicata ratione velocitatis reciproce.
+
+ds
+Reg. 3. Si tam angulus NA H, quam corporis velocitas in A,
+gravitasque acceleratrix serve t,ur 81 proportio resistentiae in A ad
+
+gravitatem motricem augeatur in ratione quacunque3 augebitur
+proportio A H ad Al 1n eadem ratione, manente parabolae praedictae
+
+latere recto, eique proportionali longitudine ΑΗΙᾳΑε dr propterea
+
+ 
+

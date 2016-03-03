@@ -1,0 +1,44 @@
+LIBER PRIMUS. 2 2 3
+
+si attractio vel impulsus ponatur uniformis, erit (ex demonstratis
+Galz'lcei) curva HI parabola, cujus haec est proprietas, ut rectangulum
+sub dato latere recto 8ι linea I M aequale sit H M quadrato; sed &linea
+HM bisecabitur in L. Unde si ad M I demittatur perpendiculum
+L 0, aequales erunt Mo, 0R,· &additis aequalibus ON, Ol, fient
+totae aequales MN, I R. Proinde cum I R detur, datur etiam M N ,·
+estque rectangulum N Ml ad rectangulum sub latere recto 8r IM,
+hoc est, ad H M q, in data ratione. Sed rectangulum N M I aequale
+est'rectangulo PM Q, id est, differentiae quadratorum ML q, ἃ PLq ·
+seu L I q; 81 HM q datam rationem habet ad sui ipsius quartam
+partem ML q: ergo datur ratio ML q—L lq ad ML q, ἃ conver·
+tendo ratio L lq ad ML q, 81 ratio dimidiata L I ad ML. Sed in
+omni triangulo L M l, sinus angulorum sunt proportionales lateribus
+oppositis, Ergo datur ratio sinus anguli incidentiae L MR ad sinum
+anguli emergentiae L l R. Q. E. D.
+
+Cas. 2. Transeat jam corpus successive per spatia plura parallelis
+
+planis terminatas! abB, BbcC, &c ἃ agitetur vi quae sit in sin·
+gulis separatim uniformia, at in diver-
+
+sis diversa; ἃ per jam demonstrata, Α ᾗ
+sinus incidentiae in planum primum ὃ
+
+Α a erit ad sinum emergentiae ex plano B
+
+secundo B b, in data ratione; 8r 1⁰) ἓ
+hie sinus, qui est sinus incidentiae in
+
+planum secundum Bb, erit ad sinum
+
+emergentiae ex plano tertio C c, in data ratione; ἃ hic sinus ad sinum
+emergentiae ex plano quarto Dd, in data ratione; & sic in infinitum:
+8r ex aequ0, sinus incidentiae in planum primum ad sinum emergentiae
+ex plano ultimo in data ratione. Minuantur jam planorum intervalla&
+augeatur numerus in infinitum, eo ut attractionis vel impulsus actio,
+secundum legem quamcunque assignatam, continua reddatur; &
+ratio sinus incidentiae in planum primum ad sinum emergentia: ex
+plano ultimo, semper data existens, etiamnum dabitur. Q. E. D.
+
+ 
+

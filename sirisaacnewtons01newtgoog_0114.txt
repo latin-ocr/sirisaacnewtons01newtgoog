@@ -1,0 +1,47 @@
+crearemus. 73
+
+ad ΕΒ, hoc est, ut SCad SB;&vicissim ICad SCut ΗΒ ad SB
+sive ut G A ad S A. Et simili argumento probabitur esse K D ad
+SD in eadem ratione. Jacent ergo puncta B, C, D in coni sectione
+circa umbilicum S ita descripta ut rectae omnes, ab umbilico S ad
+singula sectionis puncta ductae, sint ad perpendicula a punctis iisdem
+ad rectam GF demissa in data illa ratione.
+
+Methodo haud multum dissimili hujus problematis solutionem
+tradit clarissimus geometra de la Hire, conicorum suorum lib. vul.
+prop. xxv.
+
+'sncr10 u
+
+Iuventio orbium ubi umbilicus neuter datur.
+
+LEMMA XVII.
+
+Si a date conicoe sectionis puncto quovzk P ad trapezii alc‘cujus
+
+A B D C, in conica illa sectione inscripti, latera quatuor infinite
+producta A B, C D, A C, D B lotidem rectoe P Q, Ρ R, PS, PT
+in dctis angulis ducantur, singulte ad singula: reclangulum
+ductarum ad opposita duo latera PQx P R, erit ad reclangulum
+ductarum ad alce duo hiera opposita PS x PT in dcte ratc'onc.
+
+Cas. 1. Ponamus primo lineas ad opposita latera ductas parallelas
+esse alterutri reliquorum laterum, puta PQ 81 PR lateri A C, &
+PS ac P T lateri A B. Sintque insuper latera duo ex oppositis,
+puta A C 8c BD, sibi invicem parallela. Et recta quae bisecat pa·
+rallela illa latera, erit una ex diametris conicae sectionis, ἃ bisecabit
+etiam RQ. Sit 0 punctum in
+*quo RQ bisecatur‚ 81 erit Po
+ordinatim applicata ad diametrum
+illam. Produc ΡΟ adK,ut sit
+ΘΚ aequalis ΡΟ, &erit OK or·
+dinatim applicata ad contrarias
+partes diametri. Cum igitur puncta
+A, B, P & K sint ad conicam
+sectionem, & PK secet A B in
+dato angulo, erit (per prop. 17,
+
+19, 21 & 23 lib. 111. conicorum
+
+ 
+

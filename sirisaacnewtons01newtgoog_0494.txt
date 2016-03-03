@@ -1,0 +1,42 @@
+rronn rannus. “ 453
+
+‘⁴ tur ad axem majorem perpendicularis B G, quae utrinque producta
+“ occurrat circulo in punctis F ἃ f,· & quoniam spatium A Bba est
+“ad sectorem T B b ut rectangulum A B β ad B T quadratum
+“ (rectangulum enim illud aequatur differentia quadratorum ex TA
+“ 81 ΤΒ ob rectam Αβ aequaliter 8ι inaequaliter sectam in T& B),
+“haec igitur ratio ubi spatium A B ba maximum est in K eadem
+“ erit ac ratio rectanguli K H M ad H T quadratum. Sed maxima
+“nodi mediocris velocitas erat ad solis velocitatem in hac ratione.
+“Igitur in quadraturis sector A T a dividitur in partes velocitatibus
+“proportionales Et quoniam rectang. K H M est ad H T quadr. ut
+‘⁴ F Bf ad BG quad. & rectangulum A Ββ aequatur rectangulo ,F B fi
+“erit igitur areola ABba ubi maxima est ad reliquum sectorem
+“ T Bb, ut rectang. A Ββ ad BG quadr. Sed ratio harum areolarum
+“semper erat ut A Ββ rectang. ad B T quadratum; & propterea
+“areola A B bu in loco A minor est simili areola in quadraturis in
+“duplicata ratione B G ad B T, hoc est, in duplicata ratione sinus
+“ distantiae solis a nodo. Et proinde summa omnium areolarum
+· “ ABba nempe spatium ΑΒΝ erit ut motus nodi in tempore quo sol
+“digreditur a nodo per arcum NA. Et spatium reliquum nempe
+‘⁴ sector ellipticus N T B erit ut motus solis medius in eodem tempore.
+“Et propterea quoniam annuus motus nodi medius is est qui fit in
+“tempore quo sol periodum suam absolverit, motus nodi medius a
+“sole erit ad motum ipsius solis medium, ut area circuli ad aream
+“ellipseos hoc est, ut recta T K ad rectam T H mediam scilicet,
+“proportionalem inter T K 81 T S ,· vel quod eodem redit ut media
+“proportionalis T H ad rectam T S.
+
+PROPOSITIO 11.
+
+“ Dato motu medio nodorum lunae invenire molum oerum.
+
+“Sit angulus A distantia solis a loco nodi medio, sive motus
+“medius solis a nodo. Tum si capiatur angulus B cujus tangens
+“sit ad tangentem anguli A ut T H ad T K, hoc est, in subduplicata
+“ratione motus mediocris horarii solis ad motum mediocrem-hora·
+“rium solis a nodo in quadraturis versante; erit idem angulus B
+‘⁴ distantia solis a loco nodi vero Nam jungatur F T 81 ex demon-
+
+ 
+

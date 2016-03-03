@@ -1,0 +1,37 @@
+LIBER PRIMUS. 99
+
+circumferentiam GbD, ideoque aequalis angulo G ba,· suntque
+ideo triangula GPQ, Gab similia; 81 Ga estad ab ut GP ad
+PQ,· id est (ex constructione) ut Ga ad AB. AEquantur itaque
+ab dc A B; ἃ propterea triangula abc, A BC, quae modo similia
+esse probavimus, sunt etiam aequalia Unde, cum tangant insuper
+trianguli DE F anguli D, E, F trianguli abc latera ab, ac, bc
+respective, compleri potest figura ABCdes figurae abcDE F
+similis & aequalis, atque eam complendo solvetur problema. Q. E. F.
+
+Corol. Hinc recta duci potest cujus partes longitudine datae rectis
+tribus positione datis 'interjacebunt Concipe triangulum DE F,
+puncto D ad latus E F accedente, &lateribus DE, DF in directum
+positis, mutari in lineam rectam, cujus pars data DE rectis positione
+datis A B, A C, &pars data D F rectis positione datis A B, BC
+interponi debet; & applicando constructionem praecedentem ad hunc
+casum solvetur problema
+
+PROPOSITIO XXVIII. PROBLEMA XX.
+
+T rajeclonizm specie δέ magnitudz'm datam decmbere, cujus parles
+dulce rectis tribus positione datu interjacebant.
+
+Describenda sit trajectoria, quae sit similis & aequalis lineae curvae
+DE F, quaeque a rectis tribus A B, A C, BC positione datis, in
+
+partes datis hujus partibus DE 81 E F similes & aequales secabitur.
+Age rectas DE, E F, DF, &trianguli hujus DE F pone an-
+
+gulos D, E, F ad rectas illas positione datas (per lem. xxv1) dein
+circa triangulum describe trajectoriam curvae DE F similem 8t
+
+aequalem. Q. E. F.
+
+ 
+

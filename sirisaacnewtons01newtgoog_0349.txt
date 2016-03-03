@@ -1,0 +1,48 @@
+308 1.)Ιί MOTL' t'nlrl'ulr tlt!
+
+secundo tertio, quarto, quinto, sexto, digitorum 1, 1, 1, 2, 4, 8 respec-
+tive. Dividantur eae differentiae per numerum oscillationum in casu
+unoquoque, 81 111 oscillatione una mediocri, qua arcus digitorum 31,
+71, 15, 30, 60, 120 descriptus suit, differentia arcuum descensu 81
+subsequente ascensu descriptorum, erit 1113111111, .*·1·, afr, ll partes
+digiti respective. Hae autem in majoribus oscillationibus sunt in
+duplicata ratione arcuum descriptorum quam proxime. in minoribus
+ve'ro paulo majores quarn in ea ratione, 8 propterea (per corol. 2
+prop. xxxi libri hujus) resistentia globi, ubi celerius movetur, est in
+duplicata ratione velocitatis quam proxime3 ubi tardius, paulo major
+quam in ea ratione.
+
+Designet jam V velocitatem maximam in oscillatione quavis, sint·
+
+que A, B, C quantitates datae, 8 fingamus quod differentia arcuum
+
+sit nV÷ BVl÷ CVi. Cum velocitates maximae sint in cycloide ut
+semisses arcuum oscillando descriptorum, in circulo vero ut semissium
+arcuum illorum chordae; ideoque paribus arcubus majores sint in
+cycloide quam in circulo, in ratione semissium arcuum ad eorundem
+chordas; tempora autem in circulo sint majora quam in cycloide in
+velocitatis ratione reciproca; patet arcuum differentias (quae sunt
+ut resistentia 8 quadratum temporis conjunctim) easdem sore, quam-
+proxime, in utraque curva: deberent enim differentia illae in cycloide
+augeri, una curn resistentia, in duplicata circiter ratione arcus ad
+chordam, ob velocitatem in ratione illa simplici auctam; 81 diminui,
+unacum quadrato temporis in eadem duplicata ratione. Itaque
+ut reductio fiat ad cycloidem, eaedem sumendae sunt arcuum dis-
+serentiae quae fuerunt in circulo observata, velocitates vero maximae
+ponendae sunt arcubus vel dimidiatis vel integris, hoc est, numeris
+1, 1, 2, 4, 8, 16 analogae. Scribamus· ergo in casu secundo,
+
+quarto 81 sexto numeros 1, 4 81 16 pro V; 8 prodibit arcuum
+1
+
+differentia 1-2-1=A÷8'B÷C tn casu secund0; {5-:4A48 ss÷ 16C
+
+in casu quarto; 8-, 9ξ--1611-164812560 1n casu sexto. Et ex
+
+ltis aequationibus per debitam collationem 8 reductionem analyticam,
+fitn=0,.300009161=‚00010847 &C= 0-0029558. Est igitur
+
+differentia arcuum ut 00000916 V ÷0,0010847 1111000195581Η
+
+ 
+

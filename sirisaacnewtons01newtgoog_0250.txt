@@ -1,0 +1,45 @@
+LIBER PRIMUS.
+
+guatur segmentum in partes BREF G S,
+F E 06.. Sit autem superficies illa non ·
+pure mathematica, sed physica, profundi· · ·
+tatem habens quam minimam. N ominetur
+ista profunditas Ο, ἃ erit haec superficies
+(per demonstrata Archimedis) ut PF x
+DFx O. Ponamus praeterea vires attracti-
+vas particularum sphaerae esse reciproce ut ‘³
+distantiarum dignitas illa, cujus index est
+n; 81 vis, qua superficies E F G trahit
+corpus Ρ, erit (per prop. fnxxrx) ut
+DquO 2DF><O DquO
+PF* Pru-1 “We“
+Huic proportionale sit perpendiculum FN
+ductum in O; 81 area curvilinea BDI, ⁵
+quam ordinatim applicata FN in longitudinem DB per motum
+
+continuum ducta describit erit ut vis tota qua segmentum totum
+RB SD trahit corpus P. Q. ΕΙ.
+
+, id est, ut
+
+PROPOSITIO LXXXIV. PROBLEMA XLIII.
+
+Invenire un, qua corpusculum, extra ceulmm ipim in axe segmenti
+cujusvis locatum, attrahitur ab eodem segmento.
+
+A segmento E BK trahatur
+corpus P in ejus axe A DB
+locatum. Centro P interval-
+lo PE describatur superficies
+sphaerica E F K, qua distingua-
+tur segmentum in partes duas ·, u
+EBKFE 8c EFKDE.
+Quaeratur vis partis prioris per'
+prop. Lxxxr 8c vis partis pos-
+terioris per prop. Lxxx111; 81
+summa virium erit vis segmen-
+
+ti totiusEBKDE. Q.E.J.
+
+ 
+

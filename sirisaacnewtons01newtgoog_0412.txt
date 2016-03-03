@@ -1,0 +1,45 @@
+’ LIBER SECUNDUS. 37¹
+
+K jam incidat in P) ut HK ad V: 82 vis illa tota, hoc est pondus
+incumbens quo lineola E G comprimitur, est ad pondus lineolae ut
+ponderis incumbentis altitudo A ad lineolae longitudinem E G,-
+
+ideoque ex aequo, vis qua lineola E G in locis suis P 81 S urgetur
+est ad lineolae illius pondus ut HK κ Α ad V >< E G, sive ut P Ox A
+
+ad VV, nam HK erat ad E G ut ΡΟ ad V. Quare cum tempora,
+
+quibus aequalia corpora per aequalia spatia impelluntur, sint reciproce
+in subduplicata ratione virium, crit tempus vibrationis unius urgente
+vi illa clastica‚ ad tempus vibrationis, urgente vi ponderis in
+subduplicata ratione VV ad POxA, atque ideo ad tempus
+oscillationis penduli cujus longitudo est A in subduplicata ratione
+VV ad P 0 >< A, & subduplicata ratione ΡΟ ad A conjunctim ; id
+est, in ratione integra V ad A. Sed tempore vibrationis unius ex
+itu u reditu compositae, pulsus progrediendo conficit latitudinem
+suam B C. Ergo tempus, quo pulsus percurrit spatium B C, est ad
+tempus oscillationis unius ex itu & reditu compositae, ut V ad A,
+id est, ut B C ad circumferentiam circuli cujus radius est A. Tempus
+autem, quo pulsus percurret spatium BC, est ad tempus quo
+percurret longitudinem huic circumferentiae aequalem, in eadem
+ratione ; ideoque tempore talis oscillationis pulsus percurret
+longitudinem huic circumferentiae aequalem. Q. E. D.
+
+Corol. 1. Velocitas pulsuum ea est, quam acquirunt gravia aequa-
+liter accelerato motu cadendo, 8ι casu suo describendo dimidium
+altitudinis A. Nam tempore casus hujus cum velocitate cadendo
+acquisita, pulsus percurret spatium quod erit aequale toti altitudini
+A; ideoque tempore oscillationis unius ex itu 81 reditu compositae
+percurret spatium aequale circumferentia} circuli radio A descripti:
+est enim tempus casus ad tempus oscillationis ut radius circuli ad
+
+ejusdem circumferentiam.
+Corol. 2. Unde cum altitudo illa A sit ut fluidi vis elastica directe
+
+u densitas ejusdem inverse ; velocitas pulsuum erit in ratione com-
+posita ex subduplicata ratione densitatis inverse 81 subduplicata
+
+ratione vis elasticae directe.
+
+ 
+

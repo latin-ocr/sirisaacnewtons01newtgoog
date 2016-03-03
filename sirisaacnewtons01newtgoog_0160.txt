@@ -1,0 +1,45 @@
+LIBER PRIMUS. 119 ,
+
+circulo velocitatem, qua corpus ad intervallum datum S G circa cen-
+trum Srevolvi posset, cape G A ad ὲ Α S. Si ratio illa est numeri
+binarii ad unitatem, punctum A infinite distat, quo casu parabola
+vertice S, axe SG, latere quovis recto describenda est. Patet· hoc
+per prop. xxx1v. Sin ratio illa 'minor vel major est quam 2 ad 1,
+priore casu circulus, posteriore hyperbola rectangula super diametro
+SA describi debet Patet per prop. xxxm. Tum centro S,inter·
+vallo aequante dimidium lateris recti, describatur circulus H kK‚ 81
+ad corporis descendentis vel ascendentis iocum G, 8z iocum alium
+quemvis C, erigantur perpendicula Gl, C D occurrentia conicae'
+sectioni vel circulo in I ac D. Dein junctis S I, S D, fiant segmen-
+tis SEI S, SE DS sectores H SK, H Sk aequales, 8ι per prop. xxxv
+corpus G describet spatium GC eodem tempore quo corpus K de-
+scribere potest arcum K k. Q. E. F.
+
+PROPOSITIO xxxvrn. THEOREMA xn.
+
+Posito quod vis cautupeta proportionalis sit altitudini scu distantia
+locorum a centro, dico quad cadentium tempora, velocitates &spatia
+disrupta unt arcubus, artuumque sinibus rectis ὅ stuz'bus versa
+respective proportionalia.
+
+Cadat corpus de loco quovis A secundum n
+rectam A S f& centro virium S intervallo
+A S, describatur circuli quadrans A E, sitque
+C D sinus rectus arcus cujusvis A D ,· & cor· ⁶
+pus A, tempore A D, cadendo describit spa-
+tium A C, inque loco C acquiret velocitatem
+C D. ’
+
+Demonstratur eodem modo ex propositione s
+x, quo propositio xxxn ex propositione xl demonstrata fuit.
+
+Caral. 1. Hinc aequalia sunt tempora, quibus corpus unum deloco Ι
+Α cadendo pervenit ad centrum S, 8z corpus aliud revolvendo de-
+scribit arcum quadrantalem A DE.
+
+Corol. 2. Proinde aequalia sunt tempora omnia quibus corpora de
+locis quibusvis ad usque centrum cadunt Nam revolventium tem-
+pora omnia periodica (per corol. 111. prop. tv) aequantur.
+
+ 
+

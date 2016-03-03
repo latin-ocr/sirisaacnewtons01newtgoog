@@ -1,0 +1,41 @@
+arnan rnnuc‘s 165
+
+Nam vires illae, quibus corpora se mutuo trahunt, tendendo ad
+corpora, tendunt ad commune gravitatis centrum intermedium ;
+ideoque eoedem sunt, ac si a corpore intermedio manarent. Q.E.D.
+
+Et quoniam datur ratio distantiae corporis utriusvis a centro
+illo communi ad distantiam inter corpora, dabitur ratio cujusvis
+potestatis distantiae unius ad eandem potestatem distantiae alterius;
+ut 81 ratio quantitatis cujusvis, quae ex una distantia& quantitatibus
+datis utcunque derivatur, ad quantitatem aliam, quae ex altera
+distantia, &quantitatibus totidem datis datamque illam distantiarum
+rationem ad priores habentibus similiter derivatur. Proinde si vis,
+qua corpus unum ab altero trahitur, sit directe vel inverse ut
+distantia corporum ab invicem; vel ut quaelibet hujus distantiae
+potestas; vel denique ut quantitas quaevis ex hac distantia 8t
+quantitatibus datis quomodocunque derivata: erit eadem vis, qua
+corpus idem ad commune gravitatis centrum trahitur, directe itidem
+vel inverse ut corporis attracti distantia a centro illo communi, vel
+ut eadem distantiae hujus potestas, vel denique ut quantitas ex hac
+distantia u analogis quantitatibus datis similiter derivata. Hoc est
+vis trahentis eadem erit lex respectu distantiae utriusque. Q.E.D.
+
+PROPOSITIO LXII. PROBLEMA XXXVIII.
+
+Corporum duorum, pure viribus quadrato dzstanliae suoe reciproce
+proportzbnalibus se mutuo trallunt, ac de locri datis demittuntur,
+
+determinare motus,
+
+Corpora (per theorema novissimum) perinde movebuntur, acsi
+a corpore tertio in communi gravitatis centro constituto traherentur;
+ἃ centrum illud ipso motus initio quiescet per hypothesim 81
+
+propterea (per legum corol. 4) semper quiescet. Determinandi sunt
+igitur motus corporum (per prob. xxv) perinde ac si a viribus ad
+centrum illud tendentibus urgerentur, &habebuntur motus corporum
+se mutuo trahentium. Q. E. I.
+
+ 
+

@@ -1,0 +1,45 @@
+LIBER PRIMUS.
+
+PROPOSITIO XCVII. PROBLEMA XLVII.
+
+Posito quad sinns incidentiae in santarficiani ala'qnam sit aa' sinnin
+
+emergentia in data rationu qnodque incurvatio aia carporum juxta ’
+
+superficiem illam fiat in spatio breuissima, qnod nt pnnctnm
+concinnari possit: determinare santensiciem, qna corpuscula amnia
+
+a’a laco data snccasn‘na manantia canvargara saciat ad aliurn lacnrn
+datum.
+
+Sit A locus a quo corpuscula divergunt; B locus in quem con-
+vergere debent; C DE curva linea quae circa axem A B revoluta
+describat superficiem quaesitam3 D, E curvae illius puncta duo
+quaevis; 81 EF, EG perpendicula in corporis vias AD, DB demissa
+Accedat punctum l) ad punctum E ,· 8r lineae DF, qua A D
+augetur, ad lineam D G, qua D B diminuitur, ratio ultima erit eadem
+quae sinus incidentiae ad
+sinum emergentiae. Datur
+ergo ratio incrementi lineae
+A D ad decrementum lineae
+DB,· &propterea si in axe c n
+A B sumatur ubivis punctum C,per quod curva C DE transire
+debet, 8r capiatur ipsius A C incrementum CM ad ipsius B C decre-
+mentum CN in data illa ratione, centrisque A, B, 81 intervallis
+A M, BN describantur circuli duo se mutuo secantes in D,·
+
+punctum illud D tanget curvam quaesitam C D E, eandemque ubivis
+tangendo determinabit. Q. E. l.
+
+Carol. 1. Faciendo autem ut punctum A vel B nunc abeat in
+infinitum, nunc migret ad alteras partes puncti C, habebuntur figurae
+illae omnes, quas Cartasins in optica ἃ geometria ad retractiones
+exposuit Quarum inventionem cum Carteszns celaverit, visum suit
+hac propositione exponere.
+
+Caral. 2. Si corpus in superficiem quamvis C D, secundum line-
+am rectam A D, lege quavis ductam incidens, emergat secundum
+aliam quamvis rectam Dte& a puncto C duci intelligantur lineae
+
+ 
+

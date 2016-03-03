@@ -1,0 +1,45 @@
+298 oo MOTUCORPORou
+
+PROPOSITIO XXVII. THEOREMA XXII.
+
+Si corporibus fuuepeudulis resistitur iu duplicato rotzoue velocitotuuc,
+dcffermtice iuter temporo oscillationum iu medio resistente ac teru-
+poro oseiluuonum iu ejusdcm grauitatis specifice medio uou re-
+sistente, eruut arcubus oscillondo descriptis proportionales quum
+proxime.
+
+- Nam pendulis aequalibus in medio resistente describantur arcus
+inaequales A, B; u resistentia corporis in arcu A, erit ad resisten-
+tiam corporis in parte correspondente arcus B, in duplicata ratione
+
+velocitatum, id est, ut AA ad BB, quam proxime. Si resistentia ’
+
+ἱη arcu B esset ad resistentiam in arcu· A ut AB ad A A; tempora
+in arcubus A 81 B forent aequalia, per propositionem superiorem.
+Ideoque resistentia AA in arcu A, vel AB in arcu B, efficit excessum
+temporis in arcu A supra tempus in medio non resistente; 81
+= resistentia BB efficit excessum temporis in arcu B supra tempus in
+medio non resistente. Sunt autem excessus illi ut vires efficientes
+AB& BB quam proxime, id est, ut arcus A u B. QM.
+
+Corol. 1. Hinc ex oscillationum temporibus, in medio resistente,
+in arcubus inaequalibus factarum, cognosci possunt tempora oscil-
+lationum in ejusdem gravitatis specificae medio non resistente. Nam
+differentia temporum erit ad excessum temporis in arcu minore supra
+tempus in medio non resistente, ut differentia arcuum ad arcum
+minorem.
+
+Corol. 2. Oscillationes breviores sunt magis isochronae, 81 brevis-
+simae iisdem temporibus peraguntur ac in medio non resistente,
+quam proxime. Earum vero, quae in majoribus arcubus fiunt,
+tempora sunt paulo majora, propterea quod resistentia in descensu
+corporis qua tempus producitur major sit pro ratione longitudinis
+in descensu descriptae, quam resistentia in ascensu subsequente qua
+tempus contrahitur. Sed & tempus oscillationum tam brevium
+quam longarum nonnihil produci videtur per motum medii. Nam
+corporibus tardescentibus paulo minus resistitur, pro ratione veloci-
+tatis, & corporibus acceleratis paulo magis quam iis quae unifor-
+miter progrediuntur: idque quia medium, eo quem a corporibus
+
+ 
+

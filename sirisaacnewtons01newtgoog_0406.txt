@@ -1,0 +1,43 @@
+arnan SECUNDUS. 365
+
+PROPOSITIO XLV. THEOREMA XXXVI.
+
+Umbrum velocitas csl in subdtqtlz'cata rotrone latitudinum.
+
+Consequitur ex constructione propositionis sequentis
+
+PROPOSITIO XLVI. PROBLEMA X.
+
+Invenire velocitatem undarum.
+
+Constituatur pendulum cujus longitudo, inter punctum suspensionis
+&centrum oscillationis, aequetur latitudini undarum : 82 quo tempore
+
+pendulum illud oscillationes singulas peragit, codem undae progre-
+diendo latitudinem suam propemodum conficient.
+
+Undarum latitudinem voco mensuram transversam, quae vel
+vallibus imis, vel summis culminibus interjacet. Designet ABCDEF
+superficiem aquae stagnantis, undis successivis ascendentem ac
+descendentem ; sintque A, C, E, &c undarum culmina, 8ι Β, D, F,
+&c vales intermedii. Et quoniam motus undarum fit per aquae
+successivum ascensum 81 descensum, sic ut ejus partes A, C, E, &c
+
+quae nunc altissimae sunt, mox fiant infimae; 81 vis motrix, qua partes
+altissimae descendunt 81 infimae ascendunt, est pondus aquae elevatae ;
+alternus ille ascensus 81 descensus analogus erit motui reciproco
+aquae in canali, easdemque temporis leges observabit: dt propterea
+(per prop. xnrv) si distantiae inter undarum loca altissima A, C, E
+81 infima B, D, F aequentur duplae penduli longitudini; partes
+altissimae A, C, E, tempore oscillationis unius evadent infimae, &
+ternpore oscillationis alterius denuo ascendent. Igitur inter transitum
+undarum singularum tempus erit oscillationum duarum; hoc est,
+unda describet latitudinem suam, quo tempore pendulum illud bis
+oscillatur; sed eodem tempore pendulum, cujus longitudo quadrupla
+est, ideoque aequat undarum latitudinem, oscillabitur semel. Q. ΕΙ.
+
+Corol. 1. Igitur undae, quae pedes Partir'enses 3rb latae sunt, tem-
+pore minuti unius secundi progrediendo latitudinem suam conficient;
+
+ 
+

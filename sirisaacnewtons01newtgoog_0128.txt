@@ -1,0 +1,44 @@
+LIBER paruus. 37
+
+In hac propositione, 81 casu secundo propositionis superioris con·
+structiones eaedem sunt, sive recta X Υ trajectoriam secet in X & Y,
+sive non secet; eaeque non pendent ab hac sectione. Sed demon-
+stratis constructionibus ubi recta illa trajectoriam secat, innotescunt
+constructiones, ubi non secat; iisque ultra demonstrandis brevitatis =
+gratia non immoror.
+
+LEM u A x xi 1.
+’ Figuras in altus ejusdem genen'sfiguras mutare.
+
+Transmutanda sit figura quaevis H Gl. Ducantur pro lubitu
+rectae duae parallelae AO, BL tertiam quamvis positione datam
+A B secantes in A 81 B, 8t a figurae puncto quovis G, ad rectam
+A B ducatur quaevis GD, ipsi OA parallela. Deinde a puncto ali-
+quo O, in linea OA dato, ad punctum D ducatur recta OD, ipsi BL
+occurrens in d, 81 a punc-
+to occursus erigatur recta
+dg datum quemvis angulum
+cum recta BL continens,
+atque eam habens rationem
+ad Od quam habet DG ad
+OD,· 81 erit g punctum
+in figura nova kgr· puncto
+G respondens. Eadem ra-
+tione puncta singula figurae
+primae dabunt‘ puncta toti-
+dem figurae novae. Concipe
+igitur punctum G motu continuo percurrere puncta omnia figurae
+primae, u punctum g motu itidem continuo percurret puncta omnia
+figurae novae &eandem describet· Distinctionis gratia nominemus
+D G ordinatam primam, d g ordinatam novam; A D abscissam
+primam, ad abscissam novam; O polum, OD radium abscindentem,
+OA radium ordinatum primum, u Oa (quo parallelogrammum
+O A B a completur) radium ordinatum novum.
+
+Dico jam quod, si punctum G tangit rectam lineam positione da·
+tam, punctum g tanget etiam lineam rectam positione datam. Si
+punctum G tangit conicam sectionem, punctum g tanget etiam
+conicam sectionem. Conicis sectionibus hic circulum annumero. Por-
+
+ 
+

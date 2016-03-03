@@ -1,0 +1,47 @@
+LIBER PRIMUS* 3 3
+
+v applicentur BD, C E, curras occurrentes z'n B, C, dein puncta
+B. C simul accalant ad punctum A: dico quod arcae triangulorum
+ABD, ACE erunt ultimo ad invicem in duplisata ratione laterum.
+
+Etenim dum puncta B. C accedunt ad punctum A, intelligatur
+semper AD produci ad puncta longinqua d ἃ e, ut sint Ad, A ε
+ipsis AD, ΑΕ proportionales, 81 erigantur ordinatae a'b, ec ordi-
+natis DB, E C parallelae quae
+occurrant ipsis AB, Ac productis
+in b & c. Duci intelligatur, turn
+curva A bc ipsi ΑΒΕ similis, tum
+reeta A g, quae tangat curvam
+unamque in Α, & secet ordinatim
+applicatas DB, EC, db, ec in F,
+G, ſs g. Tum manente longitu-
+dine A ε coeant puncta B, C cum
+puncto A ,’ 8ι angulo cAg· evanes-
+cente, eoincident areae curvilinea: ,
+Abd, Ace curn rectilineis Afd, Α
+A ge ,¹ ideoque (per lemma v.) erunt in duplicata ratione laterum A α’,
+
+ 
+
+ 
+
+A e: Sed his areis proportionales semper sunt aseae A BD, A C E, &
+his lateribus latera AD, AE. Ergo & areae ABD, A CE sunt
+ultimo in duplicata ratione laterum Α D, ΑΕ. Q.E.D.
+
+LEMMA X.
+
+spatia qua corpus urgente quacunque vi finita describit, sive vis illa
+determinata δῖ’ immutabili: sit, sive eadem continuo augeatur vel
+continuo diminuatur, sunt zjbso motus initio t'n duplicata ratione
+
+temporum.
+
+Exponantur tempom per lineas AD, ΑΕ, δι velocitates genita}
+per ordinans ΠΒ, EQ· δι spatia his velocitatibus descripta, erunt
+ut areae ABD, ACE his ordinatis descriptae, hoc est, ipso motus
+initio (per lemma xx.) in duplicata ratione temporum AD, ΑΕ.
+
+Q.E.D.
+c
+

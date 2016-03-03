@@ -1,0 +1,31 @@
+LIBER PRIMUS. ’ 8 1
+
+aequalem angulo dato B N M, 8ι angulum C PR aequalem angu-
+lo dato C N M. Cum ergo (ex hypothesi) aequales sint anguli
+MBD, NBP, ut 8: anguli MCD, NCP,› aufer communes NBD
+&Nc-D, &restabunt aequales NBM&PBT. NCM & PCR.-
+ideoque triangula N BM. PB T similia sunt, ut δι triangula N C M,
+PCR. QuarePTestadNMutPBadNB, &PRad NMut
+PC ad NC. Sunt autem puncta B, C, N, Ρ immobilia. Ergo PT
+& PR datam habent rationem ad N M, proindeque datam rationem
+inter se; atque ideo (per lem. xx.) punctum D, perpetuus rectarum
+mobilium B T & CR concursuS, contingit sectionem conicam, per
+puncta B, C, P transeuntem Q. E.D.
+
+Et contra, si punctum mobile D contingat sectionem conicam
+transeuntem per data puncta B, C. A, & sit angulus DBM semper
+aequalis angulo dato ΑΒΕ, 8ι angulus DC M semper aequalis an-
+gulo dato A C B, & ubi punctum D incidit successive in duo quae-
+vis sectionis puncta immobilia p, Ρ, punctum mobile M incidat suc-
+cessive in punem duo immobilia n, N: per eadem n. N agatur
+
+ 
+
+recta n N, Sc haec erit locus perpetuus puncti illius mobilis M Nam.
+si fieri potest, versetur punctum M in linea aliqua curva. Tanget
+ergo punctum D sectionem conicam per puncta quinque B. C, A .
+p, Ρ transeuntem, ubi punctum M perpetuo tangit linffim curvam.
+
+Sed & ex jam demonstratis tanget etiam punctum D sectionem co-
+r
+

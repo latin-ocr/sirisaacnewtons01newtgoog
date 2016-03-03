@@ -1,0 +1,48 @@
+LIBER TERTIUS. ' 433
+
+PROPOSITIO XXVIII. PROBLEMA IX.
+
+Invenire diametros erbis in quo luna, sine eccenlricz'late, emereri
+deberet.
+
+Curvatura trajectoriae, quam mobile, si secundum trajectoriae
+illius perpendiculum trahatur, describit, estut attractio directe 81
+quadratum velocitatis inverse. Curvaturas linearum pono esse inter
+se in ultima proportione sinuum vel tangentium angulorum con·
+tactuum ad radios aequales pertinentium, ubi radii illi in inlinitum
+diminuuntur. Attractio autem lunae in terram in syzygiis est exces-
+sus gravitatis ipsius in terram supra vim solarem 2 PK (vide fig. pag.
+428) qua gravitas acceleratrix lunae in solem superat gravitatem acce-
+leratricem terrae in solem vel ab ea superatur. ln quadraturis
+autem attractio illa est summa gravitatis lunae in terram 81 vis solaris
+
+AT÷CT
+
+K T, qua luna in terram trahitur. Et hae attractiones si 2
+
+dicatur N, sunt W - Εῗ-ΙῨΞΟἩ &Q ÷ ΑῙΞΟΞ N quam
+proxime; seu ut 178725 N >< CTq—2000AquCT&
+178725 N >< Α Tq ψ 1000 CTq x A Τ. Nam si gravitas accele-
+ratrix lunae in terram exponatur per numerum 17872 5, vis mediocris
+ML, quae in quadraturis est P T vel T K 81 lunam trahit in terram,
+erit 1000, 81 vis mediocris T M in syzygiis erit 30003 de qua, si vis
+mediocris ML subducatur, manebit vis 2000 qua luna in syzygiis
+distrahitur a terra, quamque jam ante nominavi 2 PK. Velocitas
+autem lunae in syzygiis A & B est ad ipsius velocitatem in quadra-
+turis C& D, ut C T ad A T 81 momentum areae quam luna radio
+ad terram ducto describit in syzygiis ad momentum ejusdem areae in
+quadraturis conjunctim, i.e. ut 11073 C T ad 10973A T. Sumatur
+haec ratio bis inverse 81 ratio prior semel directe, 81 fiet curvatura
+orbis lunaris in syzygiis ad ejusdem curvaturam in quadraturis ut
+120406729 x 178725 A Tq >< CTq >< Ν -120406729 x
+2000Aqu><CTad122611329><178725ATq><CTq>< N
+4122611329><1000Cqux AT,i.e.ut2151969AT>< CT
+x N—24081ATcub.ad2191371AT>< CT>< N ψ 12261 CTcub.
+
+Quoniam figura orbis lunaris ignoratur, hujus vice assumamus
+
+ellipsin DBC A, in cujus centro T terra collocetur, 81 cujus axis
+21
+
+ 
+
